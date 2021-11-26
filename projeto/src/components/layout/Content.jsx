@@ -14,7 +14,7 @@ const Content = props => (
            <Route path="/detalhes">
                    <Detalhes />
                </Route>
-               <Route path="/sobre">
+               <Route path="/">
                    <Sobre />
                </Route>
                </Switch>
